@@ -1,1 +1,1 @@
-{"version":"6.30","notes":"QA: nang cap preset Historia Para Dormir (sleep) theo bo quy chuan chi tiet (loi chan, mo dau, comment trigger, sleep cue, fact lock, dedup, diep khuc <=6, tuong lua that-hu).","url":"https://raw.githubusercontent.com/phamloc68/gn-tool-update/main/gn-master-prompt-pipeline.zip"}
+{"version":"6.31","notes":"Agent doc CSV on dinh hon: tu thu lai khi Google chan tam (HTTP 400/429/5xx) + cache CSV 15s de giam so lan goi.","url":"https://raw.githubusercontent.com/phamloc68/gn-tool-update/main/gn-master-prompt-pipeline.zip"}
