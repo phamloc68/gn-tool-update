@@ -1,1 +1,1 @@
-{"version":"6.33","notes":"Agent tu QA moi bai: viet xong tu chay QA 2 vong theo preset khop template (Sleep/GOD/Suc khoe) roi moi luu .docx.","url":"https://raw.githubusercontent.com/phamloc68/gn-tool-update/main/gn-master-prompt-pipeline.zip"}
+{"version":"6.34","notes":"Fix do dai: generator viet bu den khi dat ~90 phan tram muc tieu (them section khi model viet hut), tang so doan toi da, ep moi doan viet day hon. Gio 180 phut ra dung ~2h+.","url":"https://raw.githubusercontent.com/phamloc68/gn-tool-update/main/gn-master-prompt-pipeline.zip"}
