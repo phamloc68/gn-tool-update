@@ -1,1 +1,1 @@
-{"version":"6.34","notes":"Fix do dai: generator viet bu den khi dat ~90 phan tram muc tieu (them section khi model viet hut), tang so doan toi da, ep moi doan viet day hon. Gio 180 phut ra dung ~2h+.","url":"https://raw.githubusercontent.com/phamloc68/gn-tool-update/main/gn-master-prompt-pipeline.zip"}
+{"version":"6.35","notes":"Fix do dai: chan tran - viet den khi dat muc tieu la DUNG (khong con phinh 7-9 gio); ha giong ep do dai. 180 min ra dung ~2.5-3h.","url":"https://raw.githubusercontent.com/phamloc68/gn-tool-update/main/gn-master-prompt-pipeline.zip"}
