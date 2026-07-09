@@ -1,1 +1,1 @@
-{"version":"6.35","notes":"Fix do dai: chan tran - viet den khi dat muc tieu la DUNG (khong con phinh 7-9 gio); ha giong ep do dai. 180 min ra dung ~2.5-3h.","url":"https://raw.githubusercontent.com/phamloc68/gn-tool-update/main/gn-master-prompt-pipeline.zip"}
+{"version":"6.36","notes":"Do dai xac dinh: cat cung ve dung muc tieu sau khi viet (giu cau ket). Bai khong bao gio vuot con so Length. 180 min = ~25000 tu.","url":"https://raw.githubusercontent.com/phamloc68/gn-tool-update/main/gn-master-prompt-pipeline.zip"}
